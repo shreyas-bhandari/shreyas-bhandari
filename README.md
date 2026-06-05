@@ -19,13 +19,9 @@ Location: India 🇮🇳
 Role: Full Stack Developer
 Specialization: MERN Stack
 Currently Learning:
-  - DevOps
   - Docker
   - AWS
   - System Design
-
-Goal:
-  - Become a Top Software Engineer
 ```
 
 ---

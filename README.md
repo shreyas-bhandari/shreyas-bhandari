@@ -68,7 +68,7 @@ mission: Build clean, useful, real-world software with strong user experience.
 ## :toolbox: Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,python,java,c,git,github,docker,aws,vscode,postman&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,python,java,c,git,github,docker,vscode,postman&perline=9" />
 </p>
 
 <p align="center">

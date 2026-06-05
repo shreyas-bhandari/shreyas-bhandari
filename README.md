@@ -96,9 +96,6 @@ Chrome Extension with Analytics Dashboard
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://github.com/shreyas-bhandari">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
 </p>
 
 ---

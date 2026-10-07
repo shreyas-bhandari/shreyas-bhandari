@@ -2,484 +2,533 @@
 
 # 👋 Hey, I'm **Shreyas Bhandari**
 
-### `Full-Stack Developer` · `AI/ML Explorer` · `DevOps Learner` · `Builder`
+### I don't just learn technologies.  
+### **I build things with them.**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=800&color=2563EB&center=true&vCenter=true&width=900&lines=I+build+real-world+software.;React+%2B+Node.js+%2B+MongoDB+%3D+My+playground.;I+turn+ideas+into+working+products.;Exploring+AI%2C+Cloud%2C+DevOps+%26+System+Design.;Build.+Break.+Learn.+Build+Better." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&center=true&vCenter=true&width=950&lines=Full-Stack+Developer+%7C+AI%2FML+Explorer;Turning+ideas+into+real+products.;Building+systems%2C+not+just+projects.;Learning+by+building+things+that+actually+work.;The+sky+is+the+limit+%F0%9F%9A%80" />
 
 <br/>
 
 <a href="https://github.com/shreyas-bhandari">
-<img src="https://img.shields.io/badge/GitHub-Shreyas%20Bhandari-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/shreyas-bhandari-p">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:shrayyes777@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=shreyas-bhandari&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/shreyas-bhandari?label=FOLLOWERS&style=for-the-badge&color=22C55E"/>
+<img src="https://komarev.com/ghpvc/?username=shreyas-bhandari&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## 🧠 Who Am I?
+# 🧠 Who Am I?
 
-```yaml
-name: Shreyas Bhandari
-education: B.Tech - Computer Science Engineering
-role: Full-Stack Developer
+I'm a **Computer Science Engineering student and Full-Stack Developer** who learns primarily by building.
 
-core_stack:
-  frontend:
-    - React
-    - JavaScript
-    - Tailwind CSS
-    - HTML
-    - CSS
+I started with web development, went deeper into backend systems and APIs, explored real-time applications, worked with data and machine learning, and gradually became more interested in a bigger question:
 
-  backend:
-    - Node.js
-    - Express.js
-    - REST APIs
+> **How do we turn an idea into a complete, intelligent and useful system?**
 
-  database:
-    - MongoDB
-    - Mongoose
-    - SQL fundamentals
+That's the direction I'm pursuing.
 
-languages:
-  - JavaScript
-  - Python
-  - Java
-  - C
+I don't want to limit myself to one framework, one language, or one category of software.
 
-engineering:
-  - Git & GitHub
-  - Docker
-  - Postman
-  - Vite
-  - Socket.IO
-  - Chrome Extensions
+I want to understand the **whole journey**:
 
-exploring:
-  - AI / Machine Learning
-  - DevOps
-  - AWS / Cloud
-  - System Design
-  - Scalable Backend Architecture
-
-mindset:
-  - Learn by building
-  - Solve real problems
-  - Ship practical products
-  - Keep improving
+```text
+IDEA
+  ↓
+PROBLEM
+  ↓
+PRODUCT
+  ↓
+ARCHITECTURE
+  ↓
+CODE
+  ↓
+DATA
+  ↓
+INTELLIGENCE
+  ↓
+REAL SYSTEM
 ```
-
-> **I don't just want to learn technologies — I want to understand how they work together to build real systems.**
 
 ---
 
-# 🚀 What I Build
-
-I enjoy building applications where **frontend, backend, databases, APIs, realtime communication and deployment come together.**
+# 🚀 My Engineering Journey
 
 ```text
-       💡 IDEA
-          │
-          ▼
-   ┌───────────────┐
-   │   FRONTEND    │
-   │ React + UI/UX │
-   └───────┬───────┘
-           │
-           ▼
-   ┌───────────────┐
-   │    BACKEND    │
-   │ Node + Express│
-   │   REST APIs   │
-   └───────┬───────┘
-           │
-      ┌────┴────┐
-      ▼         ▼
-   MongoDB   Realtime
-             Socket.IO
-      │
-      ▼
-   🐳 Docker
-      │
-      ▼
-   ☁️ Cloud
+        Full-Stack Development
+                 │
+                 ▼
+          Backend & APIs
+                 │
+                 ▼
+        Realtime Applications
+                 │
+                 ▼
+        Data & Machine Learning
+                 │
+                 ▼
+        System Architecture
+                 │
+                 ▼
+      Intelligent Applications
+                 │
+                 ▼
+       Personal AI Systems
 ```
 
-### Things I enjoy building
+Each project has been less about adding another item to my resume and more about **understanding something I didn't know before.**
+
+---
+
+# 💻 What I Build
+
+I enjoy building applications that combine multiple parts of software engineering:
 
 - 🌐 Full-stack web applications
-- ⚡ REST API based systems
-- 💬 Real-time communication applications
-- 📊 Dashboards & productivity tools
-- 💰 Finance & analytics applications
-- 🧩 Browser extensions
-- 🤖 AI/ML-powered applications
-- 🏗️ Backend systems & microservices
-- ☁️ Deployable, production-oriented applications
+- ⚙️ Backend systems and REST APIs
+- ⚡ Real-time applications
+- 📊 Data-driven applications
+- 🤖 AI/ML experiments
+- 🧠 Intelligent product ideas
+- 🗄️ Database-driven systems
+- 🎨 Interfaces that are actually pleasant to use
+- 🧩 Tools that solve practical problems
+
+My favourite part isn't writing a particular technology.
+
+It's making **different technologies work together to solve a problem.**
 
 ---
 
 # 💼 Internship Experience
 
-## 🚀 Software Development Internship
+### 🚀 Software Development Intern — StaxTech
 
-During my internship, I worked on multiple practical projects covering **frontend development, backend APIs, realtime systems, browser extensions and collaborative applications.**
+During my internship, I worked on multiple practical development tasks rather than only following tutorials.
 
-### 📰 API Integration — News Application
+The work exposed me to different types of application development:
 
-Built a frontend application that consumes external APIs and presents dynamic news content.
+### 📰 API Integration
 
-**Worked with:**
+Built a news application around external API data.
 
-`React` `REST APIs` `JavaScript` `Axios` `Tailwind CSS`
+**Learned through the project:**
 
-**Practical experience gained:**
-
-- API integration
-- HTTP requests & responses
-- Handling asynchronous data
-- Dynamic rendering
-- Loading & error states
-- Responsive UI
-- Working with external services
+`React` · `REST APIs` · `HTTP` · `Axios` · `Async JavaScript`
 
 ---
 
 ### 💬 Real-Time Chat Application
 
-Built a real-time messaging application using a full-stack architecture.
+Built a full-stack chat application using realtime communication.
 
-**Stack:**
+**Technologies:**
 
-`React` `Node.js` `Express.js` `MongoDB` `Socket.IO`
+`React` · `Node.js` · `Express.js` · `MongoDB` · `Socket.IO`
 
-**Worked with:**
+This gave me practical experience with:
 
-- Real-time bidirectional communication
-- Socket.IO events
-- Client/server communication
+- Client-server communication
 - REST APIs
-- MongoDB & Mongoose
-- Authentication-related application flow
-- Environment variables
+- WebSocket-style realtime communication
+- Socket.IO events
+- Database persistence
+- Authentication-related flows
 - CORS
-- Production deployment configuration
+- Environment configuration
 
-> This project helped me understand the difference between traditional request/response applications and **real-time systems**.
+More importantly, I learned how application architecture changes when **data needs to move instantly between users.**
 
 ---
 
 ### 📝 Real-Time Collaborative Document Editor
 
-Worked on a collaborative document editing system inspired by tools such as Google Docs.
+Worked on a collaborative document editing system.
 
-**Focus areas:**
+The interesting part wasn't simply creating an editor.
 
-`React` `Realtime Communication` `Collaboration Logic` `Editor UX`
+It was understanding:
 
-**Learned about:**
+```text
+USER A
+   ↕
+REAL-TIME STATE
+   ↕
+USER B
+```
+
+and thinking about:
 
 - Shared state
-- Real-time synchronization
-- Collaborative workflows
-- Event-driven application logic
-- Multi-user interaction
-- Designing interfaces around live updates
+- Synchronization
+- Live updates
+- Collaboration logic
+- User interaction
+- Realtime application architecture
 
 ---
 
-### ⏱️ Chrome Time Tracker Extension
+### ⏱️ Time Tracker Chrome Extension
 
-Built a browser-based productivity/time tracking system.
+Worked on a browser-based time tracking and dashboard experience.
 
-**Focus:**
+**Areas explored:**
 
-`Chrome Extension APIs` `JavaScript` `React` `Dashboard UI`
+`Chrome Extension APIs` · `JavaScript` · `React` · `Dashboard UI`
 
-**Worked on:**
-
-- Browser extension architecture
-- Tracking activity
-- Managing extension data
-- Dashboard visualization
-- Productivity-oriented UX
-- Connecting browser functionality with application interfaces
+This introduced me to a different kind of application development where software interacts directly with the browser environment.
 
 ---
 
-# 🧰 Technical Arsenal
+# 🧪 Projects That Represent Me
+
+## 💰 FinFlowy
+
+### Personal Finance + Intelligent Analysis Platform
+
+One of my major full-stack projects.
+
+FinFlowy goes beyond a simple expense tracker by exploring how **financial data can be processed, analyzed and turned into useful insights.**
+
+**Technologies**
+
+`React` · `Node.js` · `Express.js` · `MongoDB` · `Python` · `Machine Learning` · `Docker`
+
+### What makes it interesting
+
+- Full-stack architecture
+- Finance data processing
+- Analytics
+- ML experimentation
+- Separate services
+- API-driven architecture
+- Containerized components
+
+🔗 **[View FinFlowy](https://github.com/shreyas-bhandari/Finflowy)**
+
+---
+
+# 📄 ResumeForge
+
+### A Resume Builder That Wants To Be More Than A Resume Builder
+
+I don't see a resume builder as:
+
+```text
+Fill Form → Choose Template → Download PDF
+```
+
+That's too simple.
+
+The bigger idea is:
+
+```text
+DISCOVER
+   ↓
+UNDERSTAND
+   ↓
+WRITE
+   ↓
+OPTIMIZE
+   ↓
+DESIGN
+   ↓
+VALIDATE
+   ↓
+TAILOR
+   ↓
+EXPORT
+   ↓
+SHARE
+```
+
+The goal is to help people **discover, communicate, optimize, design, validate and present their professional value.**
+
+I'm exploring features around:
+
+- Guided resume creation
+- STAR + Impact based experience writing
+- Better project descriptions
+- Achievement discovery
+- Resume optimization
+- ATS-oriented analysis
+- Job-specific tailoring
+- Fresher-friendly workflows
+- Professional rendering
+- Export and sharing
+
+This is one of the projects where I'm trying to think not just like a developer, but like a **product builder.**
+
+---
+
+# 🧬 NMR / Machine Learning Research
+
+I've also worked on a completely different problem domain: **NMR data and molecular machine learning.**
+
+My work involved exploring:
+
+`Python` · `Pandas` · `RDKit` · `PyTorch` · `PyTorch Geometric` · `NMRShiftDB` · `GNN`
+
+The work included:
+
+- Collecting and processing NMR data
+- Working with molecular SMILES
+- Extracting atom-level information
+- Preparing datasets
+- Molecular graph representation
+- Graph-based ML concepts
+- Data preprocessing
+- Experimenting with PyTorch-based models
+
+This experience taught me something important:
+
+> **Software engineering becomes much more interesting when the problem itself is difficult.**
+
+---
+
+# 🧠 My Biggest Long-Term Vision
+
+## 🤖 A Personal AI System
+
+One of the ideas I want to pursue long-term is building a **general-purpose personal AI assistant**.
+
+Not just:
+
+```text
+Chat → Response
+```
+
+but something closer to:
+
+```text
+                    PERSONAL AI
+                         │
+       ┌─────────────────┼─────────────────┐
+       │                 │                 │
+       ▼                 ▼                 ▼
+     MEMORY          MODEL ROUTER      AGENTS
+       │                 │                 │
+       └─────────────────┼─────────────────┘
+                         │
+              ┌──────────┼──────────┐
+              ▼          ▼          ▼
+            WEB        TOOLS      FILES
+              │          │          │
+              └──────────┼──────────┘
+                         ▼
+                    COMPUTER
+                         │
+                  ┌──────┴──────┐
+                  ▼             ▼
+                VISION        VOICE
+                         │
+                         ▼
+                    AUTOMATION
+```
+
+The vision includes exploring:
+
+- Agent orchestration
+- Memory systems
+- Model routing
+- Tool calling
+- Web interaction
+- Browser/computer control
+- Filesystem interaction
+- Vision
+- Voice
+- Automation
+- Security & permissions
+- Multi-agent systems
+- Eventually connected devices and intelligent environments
+
+This isn't something I expect to finish overnight.
+
+It's a **long-term engineering direction**.
+
+---
+
+# 🛠️ My Current Toolkit
 
 <div align="center">
 
-### 💻 Languages
+### Languages
 
-<img src="https://skillicons.dev/icons?i=javascript,python,java,c" />
+<img src="https://skillicons.dev/icons?i=javascript,python,c" />
 
-### 🎨 Frontend
+### Frontend
 
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
 
-### ⚙️ Backend
+### Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-### 🗄️ Database
+### Data & AI
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=python,pytorch" />
 
-### 🛠️ Engineering & DevOps
+### Database & Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,docker,postman,linux,vscode" />
 
 </div>
 
 ---
 
-# 🧠 What I Know Beyond The Stack
+# 🧩 Beyond The Technology List
 
-| Area | What I've Worked With |
+### I work with:
+
+| Area | Experience |
 |---|---|
-| **Frontend** | React, JavaScript, Tailwind CSS, responsive UI |
+| **Frontend** | React, JavaScript, Tailwind CSS |
 | **Backend** | Node.js, Express.js, REST APIs |
-| **Realtime** | Socket.IO, realtime events, live communication |
-| **Database** | MongoDB, Mongoose, SQL fundamentals |
-| **API Development** | REST APIs, Axios, HTTP, CORS |
-| **Browser Development** | Chrome Extension development |
-| **Development Tools** | Git, GitHub, Postman, Vite, VS Code |
-| **DevOps** | Docker, containerization fundamentals |
-| **Cloud** | AWS learning, deployment concepts |
-| **AI/ML** | Python, ML experimentation, data processing |
-| **System Thinking** | Architecture, APIs, services, scalability concepts |
+| **Realtime** | Socket.IO, realtime communication |
+| **Database** | MongoDB, Mongoose, SQL |
+| **AI / ML** | Python, PyTorch, ML experimentation |
+| **Molecular ML** | RDKit, molecular graphs, NMR data |
+| **Browser** | Chrome Extension development |
+| **Tools** | Git, GitHub, Postman, Vite |
+| **Architecture** | APIs, services, modular systems |
+| **Product Building** | From idea → working application |
 
 ---
 
-# 🔥 Featured Projects
-
-## 💰 FinFlowy — Personal Finance Platform
-
-A finance-focused full-stack platform designed around **expense tracking, financial insights and intelligent analysis**.
-
-**Architecture / Stack**
-
-`React` `Node.js` `Express.js` `MongoDB` `Python` `ML` `Docker`
-
-### Highlights
-
-- Full-stack architecture
-- Finance data management
-- Analytics-oriented workflows
-- Machine learning experimentation
-- Microservice-oriented architecture
-- Dockerized services
-
-🔗 **Repository:**  
-https://github.com/shreyas-bhandari/Finflowy
-
----
-
-## 💬 Real-Time Chat Application
-
-A full-stack realtime messaging application.
-
-**Stack**
-
-`React` `Node.js` `Express.js` `MongoDB` `Socket.IO`
-
-### Highlights
-
-- Real-time messaging
-- Socket.IO communication
-- REST backend
-- MongoDB persistence
-- Responsive interface
-- Production deployment configuration
-
----
-
-## 📄 ResumeForge — Resume Builder
-
-A resume-building platform designed to go beyond simple templates and help users **discover, communicate, optimize and present their professional value.**
-
-**Stack**
-
-`React` `JavaScript` `Tailwind CSS` `Vite`
-
-### Direction
-
-- Guided resume creation
-- Better project & experience writing
-- Professional formatting
-- Resume optimization
-- Export-ready documents
-- Career-focused tooling
-
----
-
-## 📝 Collaborative Document Editor
-
-A real-time collaborative editing concept focused on shared documents and live synchronization.
-
-**Focus**
-
-`React` `Realtime Systems` `Collaboration` `Editor UX`
-
----
-
-# 🧪 My Engineering Playground
-
-I'm particularly interested in the intersection of:
+# 🔭 What I'm Exploring Now
 
 ```text
-             ┌─────────────────┐
-             │   FULL STACK    │
-             └────────┬────────┘
-                      │
-        ┌─────────────┼─────────────┐
-        ▼             ▼             ▼
-      🤖 AI          ☁️ CLOUD       ⚙️ DEVOPS
-        │             │             │
-        └─────────────┼─────────────┘
-                      ▼
-              🏗️ SYSTEM DESIGN
-                      │
-                      ▼
-              🚀 REAL PRODUCTS
+FULL-STACK ENGINEERING
+        │
+        ├── Better Backend Architecture
+        │
+        ├── Realtime Systems
+        │
+        ├── AI / Machine Learning
+        │
+        ├── Intelligent Applications
+        │
+        ├── System Design
+        │
+        └── Personal AI Systems
 ```
 
-My long-term goal is to become someone who can move from:
+I'm especially interested in the space where:
 
-**Idea → Architecture → Code → Deployment → Improvement**
+**Software Engineering × AI × Real-World Problems**
+
+meet.
 
 ---
 
-# 📈 Currently Leveling Up
+# 🧠 How I Learn
+
+I don't want to spend all my time memorizing theory.
+
+My preferred loop is:
 
 ```text
-Full-Stack Development       ████████████████████  Strong
-Backend Engineering          █████████████████░░░  Growing
-REST API Development         ███████████████████░  Strong
-Realtime Systems             ███████████████░░░░░  Growing
-Docker / DevOps              █████████████░░░░░░░  Growing
-AWS / Cloud                  ███████████░░░░░░░░░  Learning
-System Design                ██████████░░░░░░░░░░  Learning
-AI / Machine Learning        ███████████░░░░░░░░░  Exploring
+Learn a concept
+      ↓
+Build something with it
+      ↓
+Something breaks
+      ↓
+Debug it
+      ↓
+Understand WHY
+      ↓
+Improve the architecture
+      ↓
+Build something bigger
 ```
+
+### Because:
+
+> **Building exposes the gaps that tutorials hide.**
 
 ---
 
-# 🧩 My Development Philosophy
+# ⚡ Things I'm Trying To Become Better At
 
-```text
-Learn → Build → Break → Debug → Understand → Improve → Ship
-```
-
-### I believe:
-
-> **Tutorials teach you syntax. Projects teach you engineering.**
-
-So I try to learn by actually building things — APIs, full-stack applications, realtime systems, dashboards, browser extensions and experiments.
+- Designing systems instead of only features
+- Writing cleaner backend architecture
+- Understanding data deeply
+- Building useful AI-powered products
+- Connecting different technologies together
+- Thinking about scalability earlier
+- Turning rough ideas into actual products
+- Understanding **why** something works, not just **how** to make it work
 
 ---
 
-# 📊 GitHub Activity
+# 🌌 Where I'm Going
+
+I don't have a fixed endpoint.
+
+Today it might be:
+
+**Full-Stack Development**
+
+Tomorrow:
+
+**AI**
+
+Then:
+
+**Intelligent Systems**
+
+Then:
+
+**Something that doesn't exist yet.**
+
+That's the part that excites me.
+
+> **I want to become capable of building whatever I can imagine.**
+
+---
+
+# 📊 GitHub
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=shreyas-bhandari&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=shreyas-bhandari&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-bhandari&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-bhandari&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyas-bhandari&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyas-bhandari&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
+# 🤝 Let's Build
 
-<div align="center">
+I'm open to:
 
-<img src="https://github-profile-trophy.vercel.app/?username=shreyas-bhandari&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" />
+`Interesting Projects` · `Open Source` · `Collaborations` · `Hackathons` · `Internships`
 
-</div>
-
----
-
-# 🎯 What I'm Working Toward
-
-```text
-                 SOFTWARE ENGINEER
-                        ▲
-                        │
-        ┌───────────────┼────────────────┐
-        │               │                │
-        ▼               ▼                ▼
-    Full Stack        AI / ML         DevOps
-        │               │                │
-        └───────────────┼────────────────┘
-                        │
-                        ▼
-                 System Design
-                        │
-                        ▼
-              Production Engineering
-```
-
-I want to build software that is not only **functional**, but also:
-
-- ⚡ Fast
-- 🧠 Intelligent
-- 🔐 Reliable
-- 📈 Scalable
-- 🎨 Pleasant to use
-- 🛠️ Maintainable
-
----
-
-# 🌱 Beyond Coding
-
-I'm continuously experimenting with new ideas around:
-
-- 🤖 Personal AI assistants
-- 🧠 Intelligent productivity systems
-- 🌐 Full-stack platforms
-- 📊 Data-driven applications
-- ☁️ Cloud-native systems
-- 🏗️ Distributed & modular architectures
-
----
-
-# 🤝 Let's Build Something
-
-I'm interested in:
-
-`Open Source` · `Internships` · `Collaborations` · `Hackathons` · `Interesting Projects`
+If you're building something interesting, I'd love to hear about it.
 
 <div align="center">
 
 <a href="https://linkedin.com/in/shreyas-bhandari-p">
-<img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Connect%20with%20me-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:shrayyes777@gmail.com">
-<img src="https://img.shields.io/badge/Let's%20Talk-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Drop%20me%20a%20mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -488,8 +537,14 @@ I'm interested in:
 
 <div align="center">
 
-### ⚡ **Build. Learn. Break. Improve. Repeat.**
+### **Build something. Learn something. Push further. 🚀**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22C55E,45:2563EB,100:0F172A" />
+<br/>
+
+> *"The sky is the limit for us."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,45:2563EB,100:22C55E"/>
 
 </div>

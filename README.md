@@ -1,235 +1,252 @@
-<div align="center">
+<!-- =========================================================
+     SHREYAS BHANDARI — GITHUB PROFILE README
+========================================================= -->
 
-# 👋 Hey, I'm **Shreyas Bhandari**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,35:0F172A,65:2563EB,100:22C55E&text=Shreyas%20Bhandari&fontColor=FFFFFF&fontSize=54&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Explorer%20%7C%20Builder&descAlignY=58&animation=fadeIn" />
+</p>
 
-### I don't just learn technologies.  
-### **I build things with them.**
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&center=true&vCenter=true&width=950&lines=Full-Stack+Developer+%7C+AI%2FML+Explorer;Turning+ideas+into+real+products.;Building+systems%2C+not+just+projects.;Learning+by+building+things+that+actually+work.;The+sky+is+the+limit+%F0%9F%9A%80" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=1000&lines=Building+things+that+shouldn't+stay+as+ideas.;Turning+ideas+into+real+software.;Building+systems%2C+not+just+projects.;Full-Stack+%7C+AI%2FML+%7C+Real-Time+Systems;The+sky+is+the+limit." />
+</p>
 
 <br/>
 
-<a href="https://github.com/shreyas-bhandari">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/shreyas-bhandari-p">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:shrayyes777@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:22C55E,50:2563EB,100:22C55E" width="75%" />
+</p>
 
-<br/><br/>
+<p align="center">
+  <sub>
+    ⚡ BUILD &nbsp;•&nbsp; EXPERIMENT &nbsp;•&nbsp; CREATE &nbsp;•&nbsp; EVOLVE ⚡
+  </sub>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=shreyas-bhandari&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"/>
+<br/>
+
+<p align="center">
+
+  <a href="https://github.com/shreyas-bhandari?tab=followers">
+    <img src="https://img.shields.io/github/followers/shreyas-bhandari?style=for-the-badge&logo=github&label=Followers&color=2563EB" />
+  </a>
+
+  <a href="mailto:shrayyes777@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://linkedin.com/in/shreyas-bhandari-p">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=shreyas-bhandari&style=for-the-badge&color=22C55E&label=Profile+Views" />
+
+</p>
+
+---
+
+# Building things that shouldn't stay as ideas.
+
+I build **real software from ideas**.
+
+My journey started with full-stack development and gradually expanded into backend systems, APIs, real-time applications, data, machine learning and intelligent software.
+
+I enjoy taking an idea, figuring out how it could actually work, breaking the problem into systems, and building the pieces that make it real.
+
+I'm not interested in being defined by a single framework.
+
+> **If I have an idea, I want to become capable of building it.**
+
+---
+
+# 🧠 What I'm About
+
+```text
+                    IDEAS
+                      │
+                      ▼
+                 UNDERSTAND
+                      │
+                      ▼
+                 ARCHITECT
+                      │
+                      ▼
+                   BUILD
+                      │
+                      ▼
+                  CONNECT
+                      │
+                      ▼
+                 INTELLIGENCE
+                      │
+                      ▼
+                REAL SOFTWARE
+```
+
+I like working at the intersection of:
+
+**Full-Stack Development × Backend Systems × AI/ML × Data × Product Thinking**
+
+---
+
+# 💻 My Core Stack
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,vite" />
+
+### Backend & APIs
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+### Data & AI/ML
+
+<img src="https://skillicons.dev/icons?i=python,pytorch" />
+
+### Databases & Development Tools
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,postman,vscode" />
 
 </div>
 
----
+<br/>
 
-# 🧠 Who Am I?
-
-I'm a **Computer Science Engineering student and Full-Stack Developer** who learns primarily by building.
-
-I started with web development, went deeper into backend systems and APIs, explored real-time applications, worked with data and machine learning, and gradually became more interested in a bigger question:
-
-> **How do we turn an idea into a complete, intelligent and useful system?**
-
-That's the direction I'm pursuing.
-
-I don't want to limit myself to one framework, one language, or one category of software.
-
-I want to understand the **whole journey**:
-
-```text
-IDEA
-  ↓
-PROBLEM
-  ↓
-PRODUCT
-  ↓
-ARCHITECTURE
-  ↓
-CODE
-  ↓
-DATA
-  ↓
-INTELLIGENCE
-  ↓
-REAL SYSTEM
-```
-
----
-
-# 🚀 My Engineering Journey
-
-```text
-        Full-Stack Development
-                 │
-                 ▼
-          Backend & APIs
-                 │
-                 ▼
-        Realtime Applications
-                 │
-                 ▼
-        Data & Machine Learning
-                 │
-                 ▼
-        System Architecture
-                 │
-                 ▼
-      Intelligent Applications
-                 │
-                 ▼
-       Personal AI Systems
-```
-
-Each project has been less about adding another item to my resume and more about **understanding something I didn't know before.**
-
----
-
-# 💻 What I Build
-
-I enjoy building applications that combine multiple parts of software engineering:
-
-- 🌐 Full-stack web applications
-- ⚙️ Backend systems and REST APIs
-- ⚡ Real-time applications
-- 📊 Data-driven applications
-- 🤖 AI/ML experiments
-- 🧠 Intelligent product ideas
-- 🗄️ Database-driven systems
-- 🎨 Interfaces that are actually pleasant to use
-- 🧩 Tools that solve practical problems
-
-My favourite part isn't writing a particular technology.
-
-It's making **different technologies work together to solve a problem.**
+| Area | Technologies / Experience |
+|---|---|
+| **Frontend** | React, JavaScript, HTML, CSS, Tailwind CSS, Vite |
+| **Backend** | Node.js, Express.js, REST APIs |
+| **Realtime** | Socket.IO, realtime communication |
+| **Database** | MongoDB, Mongoose, SQL fundamentals |
+| **AI / ML** | Python, PyTorch, machine learning experimentation |
+| **Molecular ML** | RDKit, NMR data, molecular graphs, PyTorch Geometric |
+| **Development** | Git, GitHub, Postman, VS Code |
 
 ---
 
 # 💼 Internship Experience
 
-### 🚀 Software Development Intern — StaxTech
+## Software Development Internship — StaxTech
 
-During my internship, I worked on multiple practical development tasks rather than only following tutorials.
+My internship gave me the opportunity to work on different kinds of practical software problems instead of staying inside a single type of application.
 
-The work exposed me to different types of application development:
-
-### 📰 API Integration
+### 📰 API Integration — News Application
 
 Built a news application around external API data.
 
-**Learned through the project:**
+**Worked with**
 
-`React` · `REST APIs` · `HTTP` · `Axios` · `Async JavaScript`
+`React` `REST APIs` `JavaScript` `Axios` `Tailwind CSS`
+
+**Experience gained**
+
+- Working with external APIs
+- HTTP requests and responses
+- Asynchronous JavaScript
+- Dynamic data rendering
+- Loading and error handling
+- Responsive interfaces
 
 ---
 
 ### 💬 Real-Time Chat Application
 
-Built a full-stack chat application using realtime communication.
+Built a full-stack realtime chat application.
 
-**Technologies:**
+**Stack**
 
-`React` · `Node.js` · `Express.js` · `MongoDB` · `Socket.IO`
+`React` `Node.js` `Express.js` `MongoDB` `Socket.IO`
 
-This gave me practical experience with:
+**Worked with**
 
 - Client-server communication
 - REST APIs
-- WebSocket-style realtime communication
 - Socket.IO events
-- Database persistence
-- Authentication-related flows
+- Realtime messaging
+- MongoDB persistence
 - CORS
 - Environment configuration
+- Application architecture
 
-More importantly, I learned how application architecture changes when **data needs to move instantly between users.**
+This project introduced me to the difference between a traditional request/response application and a system where **information needs to move continuously between users.**
 
 ---
 
 ### 📝 Real-Time Collaborative Document Editor
 
-Worked on a collaborative document editing system.
+Worked on a collaborative document editing system inspired by modern collaborative tools.
 
-The interesting part wasn't simply creating an editor.
+**Focus**
 
-It was understanding:
+`React` `Realtime Communication` `Shared State` `Collaboration`
 
-```text
-USER A
-   ↕
-REAL-TIME STATE
-   ↕
-USER B
-```
+Explored:
 
-and thinking about:
-
-- Shared state
-- Synchronization
+- Shared document state
 - Live updates
+- Synchronization
 - Collaboration logic
-- User interaction
-- Realtime application architecture
+- Multi-user interaction
+- Editor experience
 
 ---
 
-### ⏱️ Time Tracker Chrome Extension
+### ⏱️ Time Tracker Dashboard
 
-Worked on a browser-based time tracking and dashboard experience.
+Worked on a browser-based time tracking and productivity dashboard.
 
-**Areas explored:**
+**Focus**
 
-`Chrome Extension APIs` · `JavaScript` · `React` · `Dashboard UI`
+`JavaScript` `React` `Dashboard UI`
 
-This introduced me to a different kind of application development where software interacts directly with the browser environment.
+Explored:
+
+- Activity tracking
+- Productivity data
+- Dashboard interfaces
+- Application state
+- Browser-based workflows
 
 ---
 
-# 🧪 Projects That Represent Me
+# 🚀 Projects
 
 ## 💰 FinFlowy
 
-### Personal Finance + Intelligent Analysis Platform
+### Personal Finance Platform + Intelligent Analysis
 
-One of my major full-stack projects.
+FinFlowy is one of my larger full-stack projects, built around personal finance management and intelligent financial analysis.
 
-FinFlowy goes beyond a simple expense tracker by exploring how **financial data can be processed, analyzed and turned into useful insights.**
+**Stack**
 
-**Technologies**
+`React` `Node.js` `Express.js` `MongoDB` `Python` `Machine Learning`
 
-`React` · `Node.js` · `Express.js` · `MongoDB` · `Python` · `Machine Learning` · `Docker`
-
-### What makes it interesting
+### What I explored
 
 - Full-stack architecture
-- Finance data processing
+- Financial data management
 - Analytics
-- ML experimentation
-- Separate services
-- API-driven architecture
+- Machine learning experimentation
+- API-based services
+- Modular application architecture
 - Containerized components
 
-🔗 **[View FinFlowy](https://github.com/shreyas-bhandari/Finflowy)**
+🔗 **Repository:**  
+https://github.com/shreyas-bhandari/Finflowy
 
 ---
 
 # 📄 ResumeForge
 
-### A Resume Builder That Wants To Be More Than A Resume Builder
+### More Than A Resume Builder
 
-I don't see a resume builder as:
+I don't want ResumeForge to be just:
 
 ```text
-Fill Form → Choose Template → Download PDF
+Fill Form → Pick Template → Download PDF
 ```
 
-That's too simple.
-
-The bigger idea is:
+The bigger idea is to help users **discover, communicate, optimize, design, validate, tailor and present their professional value.**
 
 ```text
 DISCOVER
@@ -251,9 +268,7 @@ EXPORT
 SHARE
 ```
 
-The goal is to help people **discover, communicate, optimize, design, validate and present their professional value.**
-
-I'm exploring features around:
+### Direction
 
 - Guided resume creation
 - STAR + Impact based experience writing
@@ -266,238 +281,178 @@ I'm exploring features around:
 - Professional rendering
 - Export and sharing
 
-This is one of the projects where I'm trying to think not just like a developer, but like a **product builder.**
+The project represents something I care about:
+
+> **Build software around the actual problem, not just the obvious feature.**
 
 ---
 
-# 🧬 NMR / Machine Learning Research
+# 🧬 NMR + Machine Learning
 
-I've also worked on a completely different problem domain: **NMR data and molecular machine learning.**
+I've also worked on a very different problem domain: **NMR data and molecular machine learning.**
 
-My work involved exploring:
+**Technologies**
 
-`Python` · `Pandas` · `RDKit` · `PyTorch` · `PyTorch Geometric` · `NMRShiftDB` · `GNN`
+`Python` `Pandas` `RDKit` `PyTorch` `PyTorch Geometric` `NMRShiftDB`
 
-The work included:
+### Work involved
 
-- Collecting and processing NMR data
-- Working with molecular SMILES
+- Collecting NMR data
+- Processing molecular information
+- Working with SMILES
 - Extracting atom-level information
-- Preparing datasets
+- Dataset preparation
 - Molecular graph representation
-- Graph-based ML concepts
 - Data preprocessing
-- Experimenting with PyTorch-based models
+- Exploring graph-based machine learning
 
-This experience taught me something important:
-
-> **Software engineering becomes much more interesting when the problem itself is difficult.**
+This work pushed me beyond conventional web development and into a domain where **the data and the problem itself become part of the engineering challenge.**
 
 ---
 
-# 🧠 My Biggest Long-Term Vision
+# 🧪 Other Things I've Built
 
-## 🤖 A Personal AI System
+| Project | What it explores |
+|---|---|
+| 💬 **Chat Application** | Realtime communication with Socket.IO |
+| 🛒 **E-Commerce Application** | Full-stack commerce workflows |
+| 📝 **Blog Platform** | Content management and full-stack development |
+| 📄 **ResumeForge** | Career-focused product engineering |
+| 💰 **FinFlowy** | Finance + analytics + ML |
+| 🧬 **NMR Projects** | Scientific data + molecular ML |
 
-One of the ideas I want to pursue long-term is building a **general-purpose personal AI assistant**.
+---
 
-Not just:
+# 🤖 The Bigger Vision
+
+## Building a Personal AI System
+
+One of the long-term ideas I'm most interested in is building a **general-purpose personal AI system**.
+
+Not simply:
 
 ```text
-Chat → Response
+User → Question → AI → Answer
 ```
 
-but something closer to:
+But something more like:
 
 ```text
-                    PERSONAL AI
-                         │
-       ┌─────────────────┼─────────────────┐
-       │                 │                 │
-       ▼                 ▼                 ▼
-     MEMORY          MODEL ROUTER      AGENTS
-       │                 │                 │
-       └─────────────────┼─────────────────┘
-                         │
-              ┌──────────┼──────────┐
-              ▼          ▼          ▼
-            WEB        TOOLS      FILES
-              │          │          │
-              └──────────┼──────────┘
-                         ▼
-                    COMPUTER
-                         │
-                  ┌──────┴──────┐
-                  ▼             ▼
-                VISION        VOICE
-                         │
-                         ▼
-                    AUTOMATION
+                         PERSONAL AI
+                              │
+             ┌────────────────┼────────────────┐
+             │                │                │
+             ▼                ▼                ▼
+          MEMORY        MODEL ROUTER        AGENTS
+             │                │                │
+             └────────────────┼────────────────┘
+                              │
+                 ┌────────────┼────────────┐
+                 │            │            │
+                 ▼            ▼            ▼
+                WEB         TOOLS        FILES
+                 │            │            │
+                 └────────────┼────────────┘
+                              │
+                              ▼
+                         COMPUTER
+                              │
+                    ┌─────────┴─────────┐
+                    ▼                   ▼
+                  VISION              VOICE
+                    │                   │
+                    └─────────┬─────────┘
+                              ▼
+                         AUTOMATION
 ```
 
-The vision includes exploring:
+### The vision includes exploring
 
 - Agent orchestration
 - Memory systems
 - Model routing
-- Tool calling
-- Web interaction
-- Browser/computer control
+- Tool systems
+- Web access
+- Browser interaction
+- Computer control
 - Filesystem interaction
 - Vision
 - Voice
 - Automation
-- Security & permissions
+- Security and permissions
 - Multi-agent systems
-- Eventually connected devices and intelligent environments
+- Future connected devices
 
-This isn't something I expect to finish overnight.
+It's a long-term direction, not a “one weekend project.”
 
-It's a **long-term engineering direction**.
+The idea is simple:
 
----
-
-# 🛠️ My Current Toolkit
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=javascript,python,c" />
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-### Data & AI
-
-<img src="https://skillicons.dev/icons?i=python,pytorch" />
-
-### Database & Tools
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,docker,postman,linux,vscode" />
-
-</div>
+> **Build an AI system that can actually work with you, not just talk to you.**
 
 ---
 
-# 🧩 Beyond The Technology List
+# 🌌 Where I'm Heading
 
-### I work with:
-
-| Area | Experience |
-|---|---|
-| **Frontend** | React, JavaScript, Tailwind CSS |
-| **Backend** | Node.js, Express.js, REST APIs |
-| **Realtime** | Socket.IO, realtime communication |
-| **Database** | MongoDB, Mongoose, SQL |
-| **AI / ML** | Python, PyTorch, ML experimentation |
-| **Molecular ML** | RDKit, molecular graphs, NMR data |
-| **Browser** | Chrome Extension development |
-| **Tools** | Git, GitHub, Postman, Vite |
-| **Architecture** | APIs, services, modular systems |
-| **Product Building** | From idea → working application |
-
----
-
-# 🔭 What I'm Exploring Now
+I'm interested in the space between:
 
 ```text
-FULL-STACK ENGINEERING
-        │
-        ├── Better Backend Architecture
-        │
-        ├── Realtime Systems
-        │
-        ├── AI / Machine Learning
-        │
-        ├── Intelligent Applications
-        │
-        ├── System Design
-        │
-        └── Personal AI Systems
+          SOFTWARE
+              │
+              ▼
+         INTELLIGENCE
+              │
+              ▼
+         REAL SYSTEMS
+              │
+              ▼
+        REAL-WORLD USE
 ```
 
-I'm especially interested in the space where:
+The technologies will change.
 
-**Software Engineering × AI × Real-World Problems**
+Frameworks will change.
 
-meet.
+Models will change.
+
+But the ability to **understand a problem, design a system and build it** will always matter.
 
 ---
 
-# 🧠 How I Learn
-
-I don't want to spend all my time memorizing theory.
-
-My preferred loop is:
+# 🔥 What I'm Building Toward
 
 ```text
-Learn a concept
-      ↓
-Build something with it
-      ↓
-Something breaks
-      ↓
-Debug it
-      ↓
-Understand WHY
-      ↓
-Improve the architecture
-      ↓
-Build something bigger
+              FULL-STACK
+                  │
+                  ▼
+             BACKEND
+                  │
+                  ▼
+            REAL-TIME
+                  │
+                  ▼
+               DATA
+                  │
+                  ▼
+                AI/ML
+                  │
+                  ▼
+          INTELLIGENT SYSTEMS
+                  │
+                  ▼
+             BIGGER IDEAS
 ```
 
-### Because:
+I don't want my career to be:
 
-> **Building exposes the gaps that tutorials hide.**
+> “I know framework X.”
 
----
+I want it to be:
 
-# ⚡ Things I'm Trying To Become Better At
-
-- Designing systems instead of only features
-- Writing cleaner backend architecture
-- Understanding data deeply
-- Building useful AI-powered products
-- Connecting different technologies together
-- Thinking about scalability earlier
-- Turning rough ideas into actual products
-- Understanding **why** something works, not just **how** to make it work
+> **“Give me a problem. Let's figure out how to build the solution.”**
 
 ---
 
-# 🌌 Where I'm Going
-
-I don't have a fixed endpoint.
-
-Today it might be:
-
-**Full-Stack Development**
-
-Tomorrow:
-
-**AI**
-
-Then:
-
-**Intelligent Systems**
-
-Then:
-
-**Something that doesn't exist yet.**
-
-That's the part that excites me.
-
-> **I want to become capable of building whatever I can imagine.**
-
----
-
-# 📊 GitHub
+# 📊 GitHub Activity
 
 <div align="center">
 
@@ -513,38 +468,50 @@ That's the part that excites me.
 
 ---
 
-# 🤝 Let's Build
-
-I'm open to:
-
-`Interesting Projects` · `Open Source` · `Collaborations` · `Hackathons` · `Internships`
-
-If you're building something interesting, I'd love to hear about it.
+# 🏆 GitHub
 
 <div align="center">
 
-<a href="https://linkedin.com/in/shreyas-bhandari-p">
-<img src="https://img.shields.io/badge/Connect%20with%20me-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:shrayyes777@gmail.com">
-<img src="https://img.shields.io/badge/Drop%20me%20a%20mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=shreyas-bhandari&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1"/>
 
 </div>
 
 ---
 
+# 🤝 Let's Connect
+
+Interested in:
+
+`Interesting Projects` · `Open Source` · `Collaborations` · `Hackathons` · `Internships`
+
+<br/>
+
 <div align="center">
 
-### **Build something. Learn something. Push further. 🚀**
+<a href="https://linkedin.com/in/shreyas-bhandari-p">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:shrayyes777@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 <br/>
 
-> *"The sky is the limit for us."*
+---
+
+<div align="center">
+
+### **Building things that shouldn't stay as ideas.**
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,45:2563EB,100:22C55E"/>
+**The sky is the limit. 🚀**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:22C55E,45:2563EB,100:050816"/>
 
 </div>

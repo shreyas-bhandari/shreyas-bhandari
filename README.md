@@ -508,7 +508,7 @@ Interested in:
 
 <br/>
 
-**The sky is the limit. 🚀**
+**The sky is the limit. **
 
 <br/>
 

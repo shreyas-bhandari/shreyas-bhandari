@@ -1,5 +1,5 @@
 <!-- =========================================================
-     SHREYAS BHANDARI — GITHUB PROFILE README
+    SHREYAS BHANDARI — GITHUB PROFILE README
 ========================================================= -->
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=1000&lines=Building+things+that+shouldn't+stay+as+ideas.;Turning+ideas+into+real+software.;Building+systems%2C+not+just+projects.;Full-Stack+%7C+AI%2FML+%7C+Real-Time+Systems;The+sky+is+the+limit." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=1000&lines=Building+things+that+shouldn%27t+stay+as+ideas.;Turning+ideas+into+real+software.;Building+systems%2C+not+just+projects.;Full-Stack+%7C+AI%2FML+%7C+Real-Time+Systems;The+sky+is+the+limit." />
 </p>
 
 <br/>
@@ -17,9 +17,7 @@
 </p>
 
 <p align="center">
-  <sub>
-    ⚡ BUILD &nbsp;•&nbsp; EXPERIMENT &nbsp;•&nbsp; CREATE &nbsp;•&nbsp; EVOLVE ⚡
-  </sub>
+  <sub>BUILD &nbsp;•&nbsp; EXPERIMENT &nbsp;•&nbsp; CREATE &nbsp;•&nbsp; EVOLVE</sub>
 </p>
 
 <br/>
@@ -58,7 +56,7 @@ I'm not interested in being defined by a single framework.
 
 ---
 
-# 🧠 What I'm About
+# What I'm About
 
 ```text
                     IDEAS
@@ -88,7 +86,7 @@ I like working at the intersection of:
 
 ---
 
-# 💻 My Core Stack
+# My Core Stack
 
 <div align="center">
 
@@ -124,13 +122,13 @@ I like working at the intersection of:
 
 ---
 
-# 💼 Internship Experience
+# Internship Experience
 
 ## Software Development Internship — StaxTech
 
 My internship gave me the opportunity to work on different kinds of practical software problems instead of staying inside a single type of application.
 
-### 📰 API Integration — News Application
+### API Integration — News Application
 
 Built a news application around external API data.
 
@@ -149,7 +147,7 @@ Built a news application around external API data.
 
 ---
 
-### 💬 Real-Time Chat Application
+### Real-Time Chat Application
 
 Built a full-stack realtime chat application.
 
@@ -172,7 +170,7 @@ This project introduced me to the difference between a traditional request/respo
 
 ---
 
-### 📝 Real-Time Collaborative Document Editor
+### Real-Time Collaborative Document Editor
 
 Worked on a collaborative document editing system inspired by modern collaborative tools.
 
@@ -191,7 +189,7 @@ Explored:
 
 ---
 
-### ⏱️ Time Tracker Dashboard
+### Time Tracker Dashboard
 
 Worked on a browser-based time tracking and productivity dashboard.
 
@@ -205,13 +203,38 @@ Explored:
 - Productivity data
 - Dashboard interfaces
 - Application state
-- Browser-based workflows
+- Productivity-oriented workflows
 
 ---
 
-# 🚀 Projects
+# Research & Machine Learning
 
-## 💰 FinFlowy
+## NMR + Molecular Machine Learning
+
+I've also worked on a scientific machine learning problem involving **NMR data and molecular representations**.
+
+My work explored technologies and concepts including:
+
+`Python` `Pandas` `RDKit` `PyTorch` `PyTorch Geometric`
+
+### Areas explored
+
+- NMR data processing
+- Molecular information
+- SMILES
+- Dataset preparation
+- Atom-level data
+- Molecular graph representation
+- Data preprocessing
+- Graph-based machine learning
+
+This experience pushed me beyond conventional web development and into a domain where **the data and the problem itself become part of the engineering challenge.**
+
+---
+
+# Featured Projects
+
+## FinFlowy
 
 ### Personal Finance Platform + Intelligent Analysis
 
@@ -231,12 +254,12 @@ FinFlowy is one of my larger full-stack projects, built around personal finance 
 - Modular application architecture
 - Containerized components
 
-🔗 **Repository:**  
+**Repository:**  
 https://github.com/shreyas-bhandari/Finflowy
 
 ---
 
-# 📄 ResumeForge
+## ResumeForge
 
 ### More Than A Resume Builder
 
@@ -287,43 +310,21 @@ The project represents something I care about:
 
 ---
 
-# 🧬 NMR + Machine Learning
-
-I've also worked on a very different problem domain: **NMR data and molecular machine learning.**
-
-**Technologies**
-
-`Python` `Pandas` `RDKit` `PyTorch` `PyTorch Geometric` `NMRShiftDB`
-
-### Work involved
-
-- Collecting NMR data
-- Processing molecular information
-- Working with SMILES
-- Extracting atom-level information
-- Dataset preparation
-- Molecular graph representation
-- Data preprocessing
-- Exploring graph-based machine learning
-
-This work pushed me beyond conventional web development and into a domain where **the data and the problem itself become part of the engineering challenge.**
-
----
-
-# 🧪 Other Things I've Built
+# Other Projects
 
 | Project | What it explores |
 |---|---|
-| 💬 **Chat Application** | Realtime communication with Socket.IO |
-| 🛒 **E-Commerce Application** | Full-stack commerce workflows |
-| 📝 **Blog Platform** | Content management and full-stack development |
-| 📄 **ResumeForge** | Career-focused product engineering |
-| 💰 **FinFlowy** | Finance + analytics + ML |
-| 🧬 **NMR Projects** | Scientific data + molecular ML |
+| **Real-Time Chat Application** | Realtime communication with Socket.IO |
+| **Collaborative Document Editor** | Shared state and live collaboration |
+| **E-Commerce Application** | Full-stack commerce workflows |
+| **News Application** | API integration and dynamic data |
+| **FinFlowy** | Finance + analytics + intelligent analysis |
+| **ResumeForge** | Career-focused product engineering |
+| **NMR Projects** | Scientific data + molecular ML |
 
 ---
 
-# 🤖 The Bigger Vision
+# The Bigger Vision
 
 ## Building a Personal AI System
 
@@ -383,7 +384,7 @@ But something more like:
 - Multi-agent systems
 - Future connected devices
 
-It's a long-term direction, not a “one weekend project.”
+It's a long-term direction, not a one-weekend project.
 
 The idea is simple:
 
@@ -391,7 +392,7 @@ The idea is simple:
 
 ---
 
-# 🌌 Where I'm Heading
+# Where I'm Heading
 
 I'm interested in the space between:
 
@@ -418,7 +419,7 @@ But the ability to **understand a problem, design a system and build it** will a
 
 ---
 
-# 🔥 What I'm Building Toward
+# What I'm Building Toward
 
 ```text
               FULL-STACK
@@ -452,7 +453,7 @@ I want it to be:
 
 ---
 
-# 📊 GitHub Activity
+# GitHub Activity
 
 <div align="center">
 
@@ -468,7 +469,7 @@ I want it to be:
 
 ---
 
-# 🏆 GitHub
+# GitHub Achievements
 
 <div align="center">
 
@@ -478,7 +479,7 @@ I want it to be:
 
 ---
 
-# 🤝 Let's Connect
+# Let's Connect
 
 Interested in:
 
@@ -508,7 +509,7 @@ Interested in:
 
 <br/>
 
-**The sky is the limit. **
+**The sky is the limit.**
 
 <br/>
 
